@@ -1,0 +1,27 @@
+!important
+
+#about{
+    width: 960px;
+    background: #ccc;
+    .content{
+        border: 1px solid #222;
+        border-radius: 4px;
+        margin: 30px;
+        h1{
+            font-size: 30px;
+            font-weight: bold;
+            color: #222;
+        }
+        p{
+            font-size: 18px;
+            color: #ddd;
+            margin-bottom: 20px;
+        }
+    }
+}
+
+.botann{
+    border-radius: 5px;
+    background-color: blue;
+    
+}
